@@ -1,6 +1,6 @@
 # OpenPMU XML SV Simulator
 
-This provides a GUI which creates a simulated stream of sampled values (SV) in OpenPMU V2's XML format.  These should be piped into the OpenPMU Phasor Estimator to produce a synchrophasor.  This is useful for development of new phasor estimation algorithms in a software only environment, without need for the OpenPMU ADC hardware.
+This provides a GUI which creates a simulated stream of sampled values (SV) in [OpenPMU V2's XML format](https://github.com/OpenPMU/OpenPMU/tree/master/XML_Datagrams).  These should be piped into the OpenPMU Phasor Estimator to produce a synchrophasor.  This is useful for development of new phasor estimation algorithms in a software only environment, without need for the OpenPMU ADC hardware.
 
 The structure and format of the XML datagrams is [described here](https://github.com/OpenPMU/OpenPMU/tree/master/XML_Datagrams).
 
