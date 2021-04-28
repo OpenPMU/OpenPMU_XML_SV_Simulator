@@ -14,6 +14,8 @@ Requires Python 3.7 or later.  Has been tested using [WinPython](https://winpyth
 
 To launch the programme, run the file `OpenPMU_XML_SV_SimulatorGUI.py`.
 
+Depending on the location of your OpenPMU dependancies, you may need to edit the line which imports `tools.py`.
+
 ## Cite this work:
 
 When citing this work, we recommend citing the following publication:
