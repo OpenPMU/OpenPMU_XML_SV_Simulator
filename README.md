@@ -10,6 +10,10 @@ Licensed under GPLv3.  Collaborations towards development of this code and other
 
 Requires Python 3.7 or later.  Has been tested using [WinPython](https://winpython.github.io/) and on [Raspberry Pi OS](https://www.raspberrypi.org/software/operating-systems/) (March 4th 2021).
 
+## Getting Started:
+
+To launch the programme, run the file `OpenPMU_XML_SV_SimulatorGUI.py`.
+
 ## Cite this work:
 
 When citing this work, we recommend citing the following publication:
