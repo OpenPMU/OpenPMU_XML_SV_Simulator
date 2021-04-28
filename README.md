@@ -12,7 +12,7 @@ Requires Python 3.7 or later.  Has been tested using [WinPython](https://winpyth
 
 ## Getting Started:
 
-To launch the programme, run the file `OpenPMU_XML_SV_SimulatorGUI.py`.
+The code is run from the command line using `python OpenPMU_XML_SV_SimulatorGUI.py`. You may be asked to install some dependencies. Usually you will only need 'netifaces', which may install with `pip install netifaces`.
 
 Depending on the location of your OpenPMU dependancies, you may need to edit the line which imports `tools.py`.
 
