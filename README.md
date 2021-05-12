@@ -12,9 +12,9 @@ Requires Python 3.7 or later.  Has been tested using [WinPython](https://winpyth
 
 ## Getting Started:
 
-The code is run from the command line using `python OpenPMU_XML_SV_SimulatorGUI.py`. You may be asked to install some dependencies. Usually you will only need 'netifaces', which may install with `pip install netifaces`.
+The code is run from the command line using `python OpenPMU_XML_SV_SimulatorGUI.py`. You may be asked to install some dependencies.
 
-Depending on the location of your OpenPMU dependancies, you may need to edit the line which imports `tools.py`.
+This simulator is useful to provide simulated waveform data to the [OpenPMU Phasor Estimator](https://github.com/OpenPMU/OpenPMU_Phasor_Estimator).
 
 ## Cite this work:
 
