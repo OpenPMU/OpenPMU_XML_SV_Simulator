@@ -8,7 +8,7 @@ The structure and format of the XML datagrams is [described here](https://github
 
 Licensed under GPLv3.  Collaborations towards development of this code and other aspects of the OpenPMU project are very welcome.
 
-Requires Python 3.7 or later.  Has been tested using [WinPython](https://winpython.github.io/) and on [Raspberry Pi OS](https://www.raspberrypi.org/software/operating-systems/) (March 4th 2021).
+Requires Python 3.7 or later.  Has been tested using [WinPython](https://winpython.github.io/) 3.9.4 and on [Raspberry Pi OS](https://www.raspberrypi.org/software/operating-systems/) (March 4th 2021).
 
 ## Getting Started:
 
